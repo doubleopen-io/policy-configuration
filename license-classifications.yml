@@ -1232,6 +1232,16 @@ categorizations:
       - "property:AutoConf-or-other-exception"
 
   # https://spdx.org/licenses/GPL-2.0-only.html
+  # https://scancode-licensedb.aboutcode.org/openjdk-exception.html
+  - id: "GPL-2.0-only WITH LicenseRef-scancode-openjdk-exception"
+    categories:
+      - "copyleft-module-level"
+      - "property:include-in-notice-file"
+      - "include-in-notice-file"
+      - "property:distribute-source-code"
+      - "property:AutoConf-or-other-exception"
+
+  # https://spdx.org/licenses/GPL-2.0-only.html
   # https://spdx.org/licenses/Linux-syscall-note.html
   - id: "GPL-2.0-only WITH Linux-syscall-note"
     categories:
