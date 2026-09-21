@@ -1090,6 +1090,14 @@ categorizations:
       - "include-in-notice-file"
       - "property:patent-clause"
 
+  # https://spdx.org/licenses/FSL-1.1-MIT.html
+  - id: "FSL-1.1-MIT"
+    categories:
+      - "commercial"
+      - "property:include-in-notice-file"
+      - "include-in-notice-file"
+      - "property:patent-clause"
+
   - id: "FTL"
     categories:
       - "permissive"
