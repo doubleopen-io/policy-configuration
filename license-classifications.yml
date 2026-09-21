@@ -3004,6 +3004,14 @@ categorizations:
       - "property:include-in-notice-file"
       - "include-in-notice-file"
 
+  # https://scancode-licensedb.aboutcode.org/fsl-1.0-apache-2.0.html
+  - id: "LicenseRef-scancode-fsl-1.0-apache-2.0"
+    categories:
+      - "commercial"
+      - "property:include-in-notice-file"
+      - "include-in-notice-file"
+      - "property:patent-clause"
+
   - id: "LicenseRef-scancode-gary-s-brown"
     categories:
       - "permissive"
