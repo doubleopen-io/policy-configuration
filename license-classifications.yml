@@ -3643,6 +3643,15 @@ categorizations:
       - "property:include-in-notice-file"
       - "include-in-notice-file"
 
+  # https://scancode-licensedb.aboutcode.org/un-cefact-2016.html
+  - id: "LicenseRef-scancode-un-cefact-2016"
+    categories:
+      - "free-restricted"
+      - "property:include-in-notice-file"
+      - "include-in-notice-file"
+      - "property:no-modifications"
+      - "property:specification-license"
+
   - id: "LicenseRef-scancode-unicode"
     categories:
       - "permissive"
