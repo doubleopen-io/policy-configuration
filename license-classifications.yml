@@ -3012,6 +3012,14 @@ categorizations:
       - "include-in-notice-file"
       - "property:patent-clause"
 
+  # https://scancode-licensedb.aboutcode.org/fsl-1.0-mit.html
+  - id: "LicenseRef-scancode-fsl-1.0-mit"
+    categories:
+      - "commercial"
+      - "property:include-in-notice-file"
+      - "include-in-notice-file"
+      - "property:patent-clause"
+
   - id: "LicenseRef-scancode-gary-s-brown"
     categories:
       - "permissive"
