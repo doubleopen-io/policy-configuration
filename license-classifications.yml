@@ -1082,6 +1082,14 @@ categorizations:
       - "property:include-in-notice-file"
       - "include-in-notice-file"
 
+  # https://spdx.org/licenses/FSL-1.1-ALv2.html
+  - id: "FSL-1.1-ALv2"
+    categories:
+      - "commercial"
+      - "property:include-in-notice-file"
+      - "include-in-notice-file"
+      - "property:patent-clause"
+
   - id: "FTL"
     categories:
       - "permissive"
